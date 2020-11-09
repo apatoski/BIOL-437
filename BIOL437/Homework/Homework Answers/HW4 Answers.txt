@@ -1,0 +1,43 @@
+Answers
+
+For q1
+Prob_ATACAG = 0.00648
+Hiest_Prob = 0.02016
+The 6-mers with highest probability is G(T|C)AGAG
+
+For q2
+the length of motif is 2241
+The index is 14 and the probality is 0.007560000000000001
+The index is 16 and the probality is 0.00648
+The index is 135 and the probality is 0.006048
+The index is 251 and the probality is 0.00504
+The index is 308 and the probality is 0.007560000000000001
+The index is 319 and the probality is 0.02016
+The index is 392 and the probality is 0.00504
+The index is 709 and the probality is 0.012096
+The index is 861 and the probality is 0.007560000000000001
+The index is 911 and the probality is 0.00648
+The index is 939 and the probality is 0.02016
+The index is 962 and the probality is 0.01008
+The index is 1064 and the probality is 0.007560000000000001
+The index is 1149 and the probality is 0.00648
+The index is 1208 and the probality is 0.02016
+The index is 1230 and the probality is 0.00864
+The index is 1309 and the probality is 0.02016
+The index is 1389 and the probality is 0.00648
+The index is 1410 and the probality is 0.009072
+The index is 1512 and the probality is 0.006048
+The index is 1569 and the probality is 0.007560000000000001
+The index is 1919 and the probality is 0.007560000000000001
+The index is 1924 and the probality is 0.00864
+The index is 2176 and the probality is 0.007560000000000001
+The index is 2214 and the probality is 0.01008
+
+For q3
+
+prob_BG is [9.765625e-05, 1.6689300537109373e-08, 2.8521753847599027e-12, 4.874323167314287e-16, 8.330142131640626e-20, 1.4236082744503022e-23, 6.386487847915403e-27, 1.09144079432148e-30]
+prob_M is [0.0, 0.0, 0.0, 0.0, 0.0, 8.096898151954688e-23, 0.0, 0.0]
+
+The total probability is 1.09144079432148e-30
+
+​
